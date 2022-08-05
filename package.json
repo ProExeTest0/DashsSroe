@@ -19,6 +19,7 @@
     "@react-navigation/native-stack": "^6.7.0",
     "appcenter-cli": "^2.10.10",
     "axios": "^0.27.2",
+    "bitbucket": "^2.7.0",
     "g": "^2.0.1",
     "git": "^0.1.5",
     "moment": "^2.29.4",
